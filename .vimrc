@@ -12,6 +12,9 @@ syntax on
 inoremap jk <ESC>
 vnoremap > >gv
 vnoremap < <gv
+nnoremap < <<
+nnoremap > >>
+
 " Windows copy and paste in visual mode
 " vnoremap <C-c> "*y
 " vnoremap <C-v> "*p
