@@ -15,8 +15,9 @@ vnoremap < <gv
 nnoremap < <<
 nnoremap > >>
 
-" Windows copy and paste in visual mode
+" Windows copy and paste
 " vnoremap <C-c> "*y
 " vnoremap <C-v> "*p
+" inoremap <C-v> a<ESC>v"*pa
 nmap <C-s> :w<ENTER>
 nmap <C-q> :q<ENTER>
