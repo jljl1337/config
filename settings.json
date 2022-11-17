@@ -1,4 +1,6 @@
 {
+    "vim.easymotion": true,
+    "vim.smartRelativeLine": true,
     "vim.insertModeKeyBindings": [
         {
             "before": ["j", "k"],
