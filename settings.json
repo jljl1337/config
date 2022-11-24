@@ -11,7 +11,15 @@
         {
             "before": ["j", "k"],
             "after": ["<Esc>"]
-        }
+        },
+        {
+            "before": [">"],
+            "after": [">", ">"]
+        },
+        {
+            "before": ["<"],
+            "after": ["<", "<"]
+        },
     ],
     "vim.normalModeKeyBindingsNonRecursive": [
         {
