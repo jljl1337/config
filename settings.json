@@ -4,7 +4,6 @@
     "editor.rulers": [
         80
     ],
-    "files.autoSave": "afterDelay",
     "vim.easymotion": true,
     "vim.smartRelativeLine": true,
     "vim.insertModeKeyBindings": [
