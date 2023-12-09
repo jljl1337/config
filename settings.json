@@ -1,4 +1,5 @@
 {
+    "explorer.sortOrder": "type",
     "editor.minimap.enabled": true,
     "editor.cursorBlinking": "solid",
     "editor.lineNumbers": "on",
