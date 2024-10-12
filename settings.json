@@ -1,41 +1,55 @@
 {
-    "explorer.sortOrder": "type",
-    "editor.minimap.enabled": true,
-    "editor.cursorBlinking": "solid",
-    "editor.lineNumbers": "on",
-    "editor.rulers": [
-        80
-    ],
-    "vim.easymotion": true,
-    "vim.smartRelativeLine": true,
-    "vim.insertModeKeyBindings": [
-        {
-            "before": ["j", "k"],
-            "after": ["<Esc>"]
-        },
-    ],
-    "vim.normalModeKeyBindingsNonRecursive": [
-        {
-            "before": [" "],
-            "after": ["leader", "leader" , "s"]
-        },
-        {
-            "before": ["<"],
-            "after": ["<", "<"]
-        },
-        {
-            "before": [">"],
-            "after": [">", ">"]
-        }
-    ],
-    "vim.visualModeKeyBindings": [
-        {
-            "before": ["<"],
-            "after": ["<", "g", "v"]
-        },
-        {
-            "before": [">"],
-            "after": [">", "g", "v"]
-        },
-    ]
+  "explorer.sortOrder": "type",
+  "editor.minimap.enabled": true,
+  "editor.cursorBlinking": "solid",
+  "editor.lineNumbers": "on",
+  "editor.rulers": [
+    80
+  ],
+  "editor.detectIndentation": false,
+  "editor.tabSize": 4,
+  "[javascript]": {
+    "editor.tabSize": 2
+  },
+  "[typescript]": {
+    "editor.tabSize": 2
+  },
+  "[json]": {
+    "editor.tabSize": 2
+  },
+  "[jsonc]": {
+    "editor.tabSize": 2
+  },
+  "vim.easymotion": true,
+  "vim.smartRelativeLine": true,
+  "vim.insertModeKeyBindings": [
+    {
+      "before": ["j", "k"],
+      "after": ["<Esc>"]
+    },
+  ],
+  "vim.normalModeKeyBindingsNonRecursive": [
+    {
+      "before": [" "],
+      "after": ["leader", "leader", "s"]
+    },
+    {
+      "before": ["<"],
+      "after": ["<", "<"]
+    },
+    {
+      "before": [">"],
+      "after": [">", ">"]
+    }
+  ],
+  "vim.visualModeKeyBindings": [
+    {
+      "before": ["<"],
+      "after": ["<", "g", "v"]
+    },
+    {
+      "before": [">"],
+      "after": [">", "g", "v"]
+    },
+  ]
 }
