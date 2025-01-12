@@ -7,18 +7,12 @@
     80
   ],
   "editor.detectIndentation": false,
-  "editor.tabSize": 4,
-  "[javascript]": {
-    "editor.tabSize": 2
+  "editor.tabSize": 2,
+  "[python]": {
+    "editor.tabSize": 4
   },
-  "[typescript]": {
-    "editor.tabSize": 2
-  },
-  "[json]": {
-    "editor.tabSize": 2
-  },
-  "[jsonc]": {
-    "editor.tabSize": 2
+  "[sql]": {
+    "editor.tabSize": 4
   },
   "vim.easymotion": true,
   "vim.smartRelativeLine": true,
