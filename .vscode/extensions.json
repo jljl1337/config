@@ -2,7 +2,6 @@
   "recommendations": [
     "pkief.material-icon-theme",
     "streetsidesoftware.code-spell-checker",
-    "oderwat.indent-rainbow",
     "vscodevim.vim",
     "eamodio.gitlens",
     "mhutchie.git-graph",

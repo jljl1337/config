@@ -8,7 +8,6 @@
     80
   ],
   "editor.detectIndentation": false,
-  "editor.guides.highlightActiveBracketPair": false,
   "editor.tabSize": 2,
   "[groovy]": {
     "editor.tabSize": 4
@@ -54,11 +53,4 @@
       "after": [">", "g", "v"]
     }
   ],
-  "indentRainbow.indicatorStyle": "light",
-  "indentRainbow.lightIndicatorStyleLineWidth": 2,
-  "indentRainbow.colors": [
-    "rgba(255,255,64,0.5)",
-    "rgba(255,127,255,0.5)",
-    "rgba(74,143,246,0.5)"
-  ]
 }
