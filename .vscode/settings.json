@@ -8,11 +8,18 @@
     80
   ],
   "editor.detectIndentation": false,
+  "editor.guides.highlightActiveBracketPair": false,
   "editor.tabSize": 2,
+  "[groovy]": {
+    "editor.tabSize": 4
+  },
   "[python]": {
     "editor.tabSize": 4
   },
   "[sql]": {
+    "editor.tabSize": 4
+  },
+  "[go]": {
     "editor.tabSize": 4
   },
   "vim.easymotion": true,
